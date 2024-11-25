@@ -13,26 +13,25 @@ To gift and to be gifted, spreading joy and surprises among the Fellowship.
 
 ## **How It Works**
 
-1. Each participant shall draw the name of another in secret.
-2. Your mission is to choose a thoughtful gift for your chosen recipient, guided by the budget of **[insert budget, e.g., $20]**.
-3. Bring your gift to the grand gathering on **[insert date]** at **[insert location]**, where the mysteries of the givers shall be unveiled.
+1. Each participant shall recieve the name of another in secret.
+2. Your mission is to choose a thoughtful gift for your chosen recipient, guided by the budget of **30 doubloons**.
+3. Bring your gift to the grand gathering on **December 25, 2024** at **House of Bettesworth**, where the mysteries of the givers shall be unveiled.
 
 ---
 
 ## **Important Details**
 
 - **No Wrapping Needed**: Gifts needeth not be swaddled in fine cloth or gilded paper; bring them as they are, plain and true.
-- **Budget**: Stay within **[insert budget]**. It's the thought that counts!
-- **Confirmation**: RSVP by **[insert deadline]** to secure your place in the Fellowship.
-
+- **Budget**: Stay amust **30 doubloons**. It's the thought that counts!
+  
 ---
 
 ## **The Gathering**
 
-- **Date**: [Insert date]  
-- **Time**: [Insert time]  
-- **Location**: [Insert location]  
-- **Dress Code**: Optional medieval or festive attire (because why not make it fun?).
+- **Date**: December 25, 2024
+- **Time**: Dusk of Dawn
+- **Location**: House of Bettesworth  
+- **Dress Code**: Optional 
 
 ---
 
@@ -46,10 +45,9 @@ To gift and to be gifted, spreading joy and surprises among the Fellowship.
 
 ## **Contact**
 
-For questions, clarifications, or if you need a hint about your recipient, contact the Keeper of the Gift-Giving Flame: **[insert your name/email/contact details]**.
-
+For questions or clarifications, contact the Keeper of the Gift-Giving Flame
 ---
 
-*"Even the smallest gift can bring great cheer to the hearts of companions."* – Unknown Bard  
+*"In the giving of gifts lies the magic of fellowship, where the smallest token may forge the strongest bonds." – Ancient Lorekeeper
 
-Prepare yourselves, for this shall be a night to remember! 🎁✨
+Prepare yourselves, for this shall be a season to remember! 🎁✨
