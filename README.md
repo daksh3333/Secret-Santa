@@ -1,4 +1,4 @@
-# The Fellowship of the Secret Santa Quest 🎄🧝‍♂
+# The Fellowship of the Secret Santa Quest 🎄
 
 Welcome, brave adventurers! You have been chosen to partake in an ancient and noble quest: the **Secret Santa Gift Exchange**. Gather your courage, your wit, and your holiday spirit as we embark on a journey of mystery, camaraderie, and merriment.
 
