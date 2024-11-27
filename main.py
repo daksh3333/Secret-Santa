@@ -22,11 +22,11 @@ if not SENDER_EMAIL or not SENDER_PASSWORD:
 
 #List of People
 participants = [
-    {"name": "Daksh", "email": "daksh.jr107@gmail.com"},
-    {"name": "Aaron", "email": "changa2119@gmail.com"},
-    {"name": "Aiden", "email": "aidengraham2013@gmail.com"},
-    {"name": "Avery", "email": "avery.bettesworth643@gmail.com"},
-    {"name": "Carter", "email": "carterkrause10@gmail.com"},
+    {"name": "Daksh", "email": "example@gmail.com"},
+    {"name": "Aaron", "email": "example@gmail.com"},
+    {"name": "Aiden", "email": "example@gmail.com"},
+    {"name": "Avery", "email": "example@gmail.com"},
+    {"name": "Carter", "email": "example@gmail.com"},
 ]
 
 
