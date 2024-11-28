@@ -59,6 +59,6 @@ Prepare yourselves, for this shall be a season to remember! 🎁✨
 --- 
 
 -What your .env file would look like:   
--.env: 
--EMAIL_USER= example@gmail.com
--EMAIL_PASS= #Insert App Password (Set Up double factor Authentication and Set a App Password for 'Mail"
+.env: 
+## EMAIL_USER= example@gmail.com
+## EMAIL_PASS= #Insert App Password (Set Up double factor Authentication and Set a App Password for 'Mail"
