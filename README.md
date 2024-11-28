@@ -63,4 +63,4 @@ Prepare yourselves, for this shall be a season to remember! 🎁✨
 EMAIL_USER= example@gmail.com
 
 
-EMAIL_PASS= #Insert App Password (Set Up double factor Authentication and Set a App Password for 'Mail"
+EMAIL_PASS= Insert App Password (Set Up double factor Authentication and Set a App Password for 'Mail"
