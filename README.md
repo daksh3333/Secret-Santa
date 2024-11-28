@@ -15,7 +15,7 @@ To gift and to be gifted, spreading joy and surprises among the Fellowship.
 
 1. Each participant shall recieve the name of another in secret.
 2. Your mission is to choose a thoughtful gift for your chosen recipient, guided by the budget of **30 doubloons**.
-3. Bring your gift to the grand gathering on **December 25, 2024** at **House of Bettesworth**, where the mysteries of the givers shall be unveiled.
+3. Bring your gift to the grand gathering on **December 25, 2024** at **House of Stark**, where the mysteries of the givers shall be unveiled.
 
 ---
 
@@ -30,8 +30,8 @@ To gift and to be gifted, spreading joy and surprises among the Fellowship.
 
 - **Date**: December 25, 2024
 - **Time**: Dusk of Dawn
-- **Location**: House of Bettesworth  
-- **Dress Code**: Optional 
+- **Location**: House of Stark, Winterfell  
+- **Dress Code**: Midevial  
 
 ---
 
