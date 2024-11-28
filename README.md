@@ -51,3 +51,12 @@ For questions or clarifications, contact the Keeper of the Gift-Giving Flame
 *"In the giving of gifts lies the magic of fellowship, where the smallest token may forge the strongest bonds." – Ancient Lorekeeper
 
 Prepare yourselves, for this shall be a season to remember! 🎁✨
+
+## **Setup**
+
+Enter the names of each participants of secret santa along with their emails
+Create a .env file with the senders email and App password
+What your .env file would look like:   
+.env: 
+EMAIL_USER= example@gmail.com
+EMAIL_PASS= #Insert App Password (Set Up double factor Authentication and Set a App Password for 'Mail"
